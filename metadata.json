@@ -1,0 +1,6 @@
+{
+  "name": "Banter & Reviews - Content & Monetization Hub",
+  "description": "A music, vinyl release, hip hop review, pop culture, and consumer gear review platform built with affiliate link tracking, social sharing, AI studio tools, and monetization analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
